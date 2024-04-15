@@ -8,8 +8,7 @@
 Preview
 --
 
-<img width="{70}" src="{https://github.com/GOSUofP5js/cgworksnake/assets/164286458/f8717398-c1b8-4291-98ad-131ca5e66c1f}"/>
-<img width="{70}" src="{https://github.com/GOSUofP5js/cgworksnake/assets/164286458/708bb23e-290e-4772-b62d-5a5bee0fa404}"/>
+<img width="60%" src="https://github.com/GOSUofP5js/cgworksnake/assets/164286458/df4b8198-328d-4a45-a25d-76ec42e052e3.gif"/>
 
 Code
 --
